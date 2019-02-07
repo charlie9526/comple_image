@@ -1,1 +1,1 @@
-mkkmk
+print 1223
